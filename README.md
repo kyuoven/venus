@@ -1,18 +1,28 @@
 # venus
-brainstorm:
+brainstorm 2022/05/12:
+1-
 i can run it on my sever after i set it up.
 named it venus bc kyuo/ven-tant didnt sound right, venus popped into my head, cute name i think.
 all personalised for myself. 
 
-🌷🍡🌺🌿૮₍ ´ ꒳ `₎ა🍡 ♡ 
-˗ˏˋ₊ʚ🌻ɞ₊ˎˊ˗
-🌻✨💛🐝(๑˃̵ᴗ˂̵)
-🍒🍓🍄🥀❤️🍷
-🐮☁️🥛🍓˖⁺｡˚⋆˙♥️
-…♡ 💘🏹🎀🌹♥️💋🌸 ♡…
-🎤☽ع˖⁺🎙️♡✧｡🎧☁️🤍✰~💿⛓🗝ع˖⁺
-✿・・🍃🐻🌿🧺🍵🐸🧸🦢𓂃
-— ˗ˋ୨🌱🐈📔🍃🧺🚞🌾୧ˊ˗ —
+🌷🍡🌺🌿૮₍ ´ ꒳ `₎ა🍡 ♡ ;
+˗ˏˋ₊ʚ🌻ɞ₊ˎˊ˗ ;
+🌻✨💛🐝(๑˃̵ᴗ˂̵) ;
+🍒🍓🍄🥀❤️🍷 ;
+🐮☁️🥛🍓˖⁺｡˚⋆˙♥️ ;
+…♡ 💘🏹🎀🌹♥️💋🌸 ♡… ;
+🎤☽ع˖⁺🎙️♡✧｡🎧☁️🤍✰~💿⛓🗝ع˖⁺ ;
+✿・・🍃🐻🌿🧺🍵🐸🧸🦢𓂃 ;
+— ˗ˋ୨🌱🐈📔🍃🧺🚞🌾୧ˊ˗ — ;
+
+2-
+Features:
+add 1password integration
+add expenses following
+add option for collectors to add colletions of items
+add googlemaps;other integratino (adding comments on places where you have been/want to go)
+
+
 
 ---------------------------------------------------------------------------------------
 
@@ -47,7 +57,6 @@ Features
     Multiple currencies
     Multiple languages
     An API that covers most of the data
-
 
 via: https://github.com/monicahq/monica
 
