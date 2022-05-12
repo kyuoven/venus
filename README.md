@@ -22,6 +22,8 @@ add expenses following
 add option for collectors to add colletions of items
 add googlemaps;other integratino (adding comments on places where you have been/want to go)
 
+3-
+discord bot? 
 
 
 ---------------------------------------------------------------------------------------
